@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "redhat.telemetry.enabled": false,
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-show-information-expiration": "2023-09-12T20:51:17.026Z"
+    },
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer",
+        "editor.formatOnSave": true
+    },
+    "git.enableSmartCommit": true,
+    "lldb.suppressUpdateNotifications": true,
+    "tabnine.experimentalAutoImports": true,
+    "files.autoSave": "onFocusChange",
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.foldingImportsByDefault": true,
+    "editor.hover.delay": 400,
+    "editor.hover.hidingDelay": 400,
+    "editor.mouseWheelZoom": true,
+    "editor.multiCursorLimit": 1000,
+    "editor.showFoldingControls": "always",
+    "editor.tabCompletion": "on",
+    "editor.wordWrapColumn": 120,
+    "diffEditor.codeLens": true,
+    "telemetry.telemetryLevel": "off",
+    "workbench.enableExperiments": false,
+}
